@@ -57,8 +57,8 @@
       "address": "https://anisette.crystall1ne.dev"
     },
     {
-    "name": "StikStore",
-    "address": "https://ani.stikstore.app"
+      "name": "StikStore",
+      "address": "https://ani.stikstore.app"
     }
   ],
   "cache": "https://servers.sidestore.io/servers.json.hash"
